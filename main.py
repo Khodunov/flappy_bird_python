@@ -36,3 +36,4 @@ while True:
     game_controller.draw(screen)
     pg.display.update()
     fps_checker.tick(FPS)
+#Здесь был ClockWatcher
