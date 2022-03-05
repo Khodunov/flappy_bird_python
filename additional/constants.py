@@ -15,7 +15,7 @@ BACKGROUND_IMAGE = IMAGES_FOLDER + "background_day.png"
 GROUND_IMAGE = IMAGES_FOLDER + "ground.png"
 
 # bird images
-BIRD_IMAGE = IMAGES_FOLDER + "bluebird_midflap.png"
+BIRD_IMAGE = IMAGES_FOLDER + "123.png"
 
 # pipe images
 PIPE_IMAGE = IMAGES_FOLDER + "pipe_green.png"
